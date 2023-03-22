@@ -24,8 +24,23 @@ The main features of the application are:
 
 ## Pages
 
-### Form
-[https://github.com/alexbatistadev/formulario-html/blob/main/img/readme/alert-error.png]
+
+### 1 - When you access the project, you will see this initial page.
+
+![Homepage image](https://github.com/alexbatistadev/formulario-html/blob/main/img/readme/alert-error.png)
+
+### 2 - Validate Page.
+
+![Validate Page](https://github.com/alexbatistadev/formulario-html/blob/main/img/readme/validate-form.png)
+
+### 3 - Product Page Details.
+
+![Modal error](https://github.com/alexbatistadev/formulario-html/blob/main/img/readme/alert-error.png)
+
+### 4 - Sidebar Cart!
+
+![Modal success](https://github.com/alexbatistadev/formulario-html/blob/main/img/readme/alert-success.png)
+
 
 ## Links
   - Repository: [https://github.com/alexbatistadev/formulario-html]
