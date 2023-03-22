@@ -33,11 +33,11 @@ The main features of the application are:
 
 ![Validate Page](https://github.com/alexbatistadev/formulario-html/blob/main/img/readme/validate-form.png)
 
-### 3 - Product Page Details.
+### 3 - Modal Error!
 
 ![Modal error](https://github.com/alexbatistadev/formulario-html/blob/main/img/readme/alert-error.png)
 
-### 4 - Sidebar Cart!
+### 4 - Modal Success!
 
 ![Modal success](https://github.com/alexbatistadev/formulario-html/blob/main/img/readme/alert-success.png)
 
