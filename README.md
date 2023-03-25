@@ -43,7 +43,7 @@ The main features of the application are:
 
 
 ## Links
-  - Repository: [https://github.com/alexbatistadev/formulario-html]
+  - Link page: [https://alexbatistadev.github.io/formulario-html/]
     - In case of sensitive bugs like security vulnerabilities, please contact
       alexbatistadsg@gmail.com directly instead of using issue tracker. We value your effort
       to improve the security and privacy of this project!
